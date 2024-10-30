@@ -1,4 +1,4 @@
-
+https://github.com/alegarcro/Aprendiendo-a-ser-un-buen-Ingeniero-.git
 
 Suponga que tiene a su disposición dicha ficha del ajedrez, y que se puede mover en ciertas formas particulares como se observa en la figura 1. Ahora, desea saber cuántos movimientos válidos pue- den realizarse partiendo con el caballo desde todos los números del teclado realizando un movi- miento desde cada número.
 
