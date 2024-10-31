@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Aprendiendo-a-ser-un-buen-Ingeniero-" -B "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Aprendiendo-a-ser-un-buen-Ingeniero-\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Alex Garcia/Desktop/NOCIONES CLAVE(2)/Aprendiendo-a-ser-un-buen-Ingeniero-/cmake-build-debug
